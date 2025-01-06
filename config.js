@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Lem',
+	name: 'Len',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
