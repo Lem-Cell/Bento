@@ -60,7 +60,7 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'AL',
-			icon: 'calender',
+			icon: 'calendar',
 			link: 'https://anilist.co/home',
 		},
 		{
